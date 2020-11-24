@@ -7,9 +7,9 @@
 <h3 align="left">Skills:</h3>
 <p align="left"> <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" alt="express" width="40" height="40"/> </a> 
-<a href="#" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="express" width="40" height="40"/> </a> 
+<a href="#" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="express" width="40" height="40"/> </a> <!--
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="express" width="40" height="40"/> </a>   
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="express" width="40" height="40"/> </a>   
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="express" width="40" height="40"/> </a> -->
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="express" width="40" height="40"/> </a>     
 </p>
 
