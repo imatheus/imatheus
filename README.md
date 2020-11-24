@@ -16,11 +16,11 @@
   
 <h3 align="left">Tools:</h3>
 <p align="left">
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="express" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="express" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://blog.spade.be/wp-content/uploads/2016/10/adobe-xd.png" alt="express" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" alt="express" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="express" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="express" width="35" height="35"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="express"  width="35" height="35"/> </a>
+<a href="#" target="_blank"> <img src="https://blog.spade.be/wp-content/uploads/2016/10/adobe-xd.png" alt="express" width="35" height="35"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" alt="express"  width="35" height="35"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="express"  width="35" height="35"/> </a>
 </p>
 
   
